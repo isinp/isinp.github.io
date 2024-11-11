@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /wp-content/uploads/2024/10/frontiers_x_logo-1.png
-Disallow: /wp-content/uploads/2024/09/icon-1.png
-Disallow: /wp-content/uploads/2024/09/icon.jpg
